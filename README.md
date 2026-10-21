@@ -1,4 +1,4 @@
-ù# Kri Liya
+# Kri Liya
 
 **A peer-to-peer platform for renting and lending everyday objects.**
 
